@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 4ed927b85574406499acc5f09f67b4cc
+  productGUID: d6fad57c269778a4a904919337a36e2c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Casru
+  companyName: DefaultCompany
   productName: BreakOut
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -277,10 +277,7 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
-  m_BuildTargetBatching:
-  - m_BuildTarget: Standalone
-    m_StaticBatching: 1
-    m_DynamicBatching: 0
+  m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
@@ -701,10 +698,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: bb07a1c4-1950-4aba-8823-df0aa8f296d4
+  cloudProjectId: 5b8a6ea1-823a-4fc0-b2f6-a8a102e0c879
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: BreakOut 2024-05-27_16-42-48
+  projectName: BreakOut 2024-06-23_20-59-37
   organizationId: ryukirr
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
